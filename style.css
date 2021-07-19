@@ -1,0 +1,46 @@
+.heading{
+    font-size: 50px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 1px 5px 26px mediumslateblue;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    background: linear-gradient(to right, #141e30, #243b55); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.heading_div{
+    float: none;
+    background-color: azure;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px darkslategray;
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 30px !important;
+}
+
+.heading_div2{
+    font-size: 18px !important;
+}
+
+.result_p{
+    box-shadow: 5px 5px 5px gray;
+    font-size: 20px;
+}
+
+#money_div{
+    position: fixed;
+    color: ghostwhite;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px solid mistyrose;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 110px;
+}
